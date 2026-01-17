@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+
+## may update in future
+data/raw/GiveMeSomeCredit/cs-test.csv
