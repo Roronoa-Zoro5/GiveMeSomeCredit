@@ -1,6 +1,7 @@
 # Give Me Some Credit – Credit Default Prediction
 
-Binary classification model to predict the probability that a customer will default on their credit within the next two years, using the **Give Me Some Credit** dataset from Kaggle.
+Binary classification model to predict the probability that a customer will default on their credit within the next two years, using the **Give Me Some Credit** dataset from Kaggle. 
+( The data may change as I will make some changes later if needed )
 
 ## 1. Problem & Dataset
 
@@ -58,3 +59,4 @@ Interpretation:
 ```bash
 git clone https://github.com/<your-username>/give-me-some-credit-ml.git
 cd give-me-some-credit-ml
+
